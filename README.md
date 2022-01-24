@@ -1,7 +1,7 @@
 # **cfiorenza_portfolio**
 Welcome to my data analyst portfolio! This is the home base for all of my public projects that I have put together so far. I will continue to upload as I complete new assignments. 
 
-## ***Project 1: Warby Parker SQL Funnels***
+## ***[Project 1: Warby Parker SQL Funnels](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels/edit/main/README.md)***
 ![alt text](https://cdn.mos.cms.futurecdn.net/pvZ8g5LVUVRxTgu4ZQFcPP-970-80.jpg.webp)
 
 ***What is Warby Parker?***
