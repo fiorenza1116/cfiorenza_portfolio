@@ -1,6 +1,6 @@
 # **cfiorenza_portfolio** 
 
-***Hello and welcome to my data analyst portfolio! My name is Christopher Fiorenza and I am excied to show you what I have recently been working on. Below you will find a list of projects and their descriptions. Clicking the titles will link to the location of the project where you can dive deeper into the assignment. Feel free to check out my [LinkedIn Profile](https://www.linkedin.com/in/christopherfiorenza/) and [Tableau Public Profile](https://public.tableau.com/app/profile/christopher.fiorenza#!/?newProfile=&activeTab=0) to learn more about me and some of the other work that I have done.***
+***Hello and welcome to my data analyst portfolio! My name is Christopher Fiorenza and I am excited to show you what I have recently been working on. Below you will find a list of projects and their descriptions. Clicking the titles will link to the location of the project where you can dive deeper into the assignment. Feel free to check out my [LinkedIn Profile](https://www.linkedin.com/in/christopherfiorenza/) and [Tableau Public Profile](https://public.tableau.com/app/profile/christopher.fiorenza#!/?newProfile=&activeTab=0) to learn more about me and some of the other work that I have done.***
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ***[Project 1: Warby Parker SQL Funnels](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels)***
