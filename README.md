@@ -14,7 +14,7 @@ In this project, I will use fictional raw data provided by the data scientists a
 
 
 ## ***[Project 2: Superstore - Regional Analysis Dashboard](https://public.tableau.com/app/profile/christopher.fiorenza/viz/Superstore-RegionalAnalysis/Dashboard1)***
-![alt text](https://cdn.mos.cms.futurecdn.net/pvZ8g5LVUVRxTgu4ZQFcPP-970-80.jpg.webp)
+![alt text](https://public.tableau.com/app/profile/christopher.fiorenza/viz/Superstore-RegionalAnalysis/Dashboard1)
 
 ***Description***
 
