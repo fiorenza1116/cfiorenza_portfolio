@@ -17,7 +17,7 @@ In this project, I will use fictional raw data provided by the data scientists a
 <img src="Images/SuperstoreDash1.png" width="300">
 
 
-<img src="Images/SuperstoreDash2.png" width="300">
+<img src="Images/SuperstoreDash2.png" height="250">
 
 ***Description***
 
