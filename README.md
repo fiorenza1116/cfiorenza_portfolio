@@ -23,4 +23,9 @@ The Superstore is a fictional retail store that sells several products throughou
 
 ***Objective***
 
-In this project, I will use fictional raw data provided by the data scientists at Warby Parker to analyze Warby Parker marketing funnels by calculating conversion rates and other means of data manipulation.
+This dashboard was created to break down profit analysis within the Superstore franchise. The capabilities behind this dashboard are endless:
+- Breakdown profit/sales per region, state, industry, category, or subcategory
+- Drill down to the highest spending customers in the selected focus area, and compare them to the others
+- Follow trends in sales
+- Dive into where profits are hurting the most. 
+- Imagine integrating something like this into your organization
