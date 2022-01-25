@@ -2,7 +2,7 @@
 Hello and welcome to my data analyst portfolio! Below you will find a list of projects and their descriptions that I have previously worked on. Clicking the titles will link to the location of the project where you can dive deeper into the assignment. Feel free to check out my [LinkedIn Profile](https://www.linkedin.com/in/christopherfiorenza/) and [Tableau Public Profile](https://public.tableau.com/app/profile/christopher.fiorenza#!/?newProfile=&activeTab=0) to learn more about me and some of the other work that I have done.
 
 ## ***[Project 1: Warby Parker SQL Funnels](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels)***
-![alt text](https://cdn.mos.cms.futurecdn.net/pvZ8g5LVUVRxTgu4ZQFcPP-970-80.jpg.webp)
+<img src="Images/WarbyParker.jpg" width="500">
 
 ***Description***
 
