@@ -38,7 +38,7 @@ This dashboard was created to break down profit analysis within the Superstore f
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ***[Project 3: Codeflix: Calculating Churn](https://github.com/fiorenza1116/Codeflix_Calculating_Churn)***
 
-<img src="Images/ChurnRate.pmg" width="500">
+<img src="Images/ChurnRate.png" width="500">
 
 ***Description***
 
