@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ***[Project 1: Warby Parker SQL Funnels](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels)***
-<img src="Images/WarbyParker.jpg" width="500">
+<img src="Images/conversion_funnel.jpeg" width="500">
 
 ***Description***
 
@@ -46,4 +46,4 @@ Four months into launching Codeflix, management asks you to look into subscripti
 
 ***Objective***
 
-Use the provided subscription data to compare churn rates accross segments at Codeflix. Discover ways to optimize your query to be used in scale. Follow each step of the instructions provided to reach the end result.
+Use the provided subscription data and write a SQL query to compare churn rates accross segments at Codeflix. Discover ways to optimize your query to be used in scale. Follow each step of the instructions provided to reach the end result.
