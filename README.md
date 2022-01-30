@@ -49,7 +49,7 @@ Four months into launching Codeflix, management asks you to look into subscripti
 Use the provided subscription data and write a SQL query to compare churn rates accross segments at Codeflix. Discover ways to optimize your query to be used in scale. Follow each step of the instructions provided to reach the end result.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ***[Project 4: CoolTShirts Marketing Attribution](https://github.com/fiorenza1116/CoolTShirts_Marketing_Attribution)***
+## ***[Project 4: CoolTShirts Marketing Attribution](https://public.tableau.com/app/profile/christopher.fiorenza/viz/CoolTShirtsMarketingAttribution/CoolTShirtsMarketingAttribution?publish=yes)***
 
 <img src="Images/CoolTShirts%20Dashboard.png" width="400">
 
@@ -59,4 +59,4 @@ CoolTShirts sells shirts of all kinds, as long as they are T-shaped and cool. Re
 
 ***Objective***
 
-With the raw data provided, help CTS learn more about their campaigns. Write SQL queries to provide the answers to each question asked and visualize the solutions accordingly.
+With the raw data provided, help CTS learn more about their campaigns. Write SQL queries to provide the answers to each question asked and visualize the solutions in a dashboard accordingly.
