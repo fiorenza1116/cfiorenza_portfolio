@@ -60,3 +60,7 @@ CoolTShirts sells shirts of all kinds, as long as they are T-shaped and cool. Re
 ***Objective***
 
 With the raw data provided, help CTS learn more about their campaigns. Write SQL queries to provide the answers to each question asked and visualize the solutions in a dashboard accordingly.
+
+***Instructions For Viewers***
+
+Review the [page_visits.csv](https://github.com/fiorenza1116/CoolTShirts_Marketing_Attribution/blob/main/page_visits.csv) data set below to get an understanding of the data behind the project. Then continue to the [CoolTShirts: Marketing Attribution Dashboard](https://public.tableau.com/app/profile/christopher.fiorenza/viz/CoolTShirtsMarketingAttribution/CoolTShirtsMarketingAttribution?publish=yes) to review the visual solutions that were powered by the SQL queries [(CoolTShirt_Marketing_Attribution.sql)](https://github.com/fiorenza1116/CoolTShirts_Marketing_Attribution/blob/main/CoolTShirts_Marketing_Attribution.sql ) that I created.
