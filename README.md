@@ -9,7 +9,7 @@
 ## ***[Python Charging Station Analysis](https://github.com/fiorenza1116/Charging_Station_Analysis)***
 Using registered vehicle data, zip codes, and charging station location data, I created a python script that displays all electric vehicle charging stations in NJ relative to the registered EV density per zip code. This project was created in Jupyter Notebook.
 
-<img src="Map_Screenshot.png" width="750" height="750">
+<img src="Images/Map_Screenshot.png" width="750" height="750">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ***[Project 1: Warby Parker SQL Funnels](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels)***
