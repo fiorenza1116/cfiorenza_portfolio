@@ -8,7 +8,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ***[Python Charging Station Analysis](https://github.com/fiorenza1116/Charging_Station_Analysis)***
-<img src="Images/Map_Screenshot.png" width="750" height="750">
+<img src="Images/Map_Screenshot.png" width="500 height="500">
 
 ***Description***
 
