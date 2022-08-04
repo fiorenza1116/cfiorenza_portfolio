@@ -6,13 +6,20 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ***[Python Charging Station Analysis](https://github.com/fiorenza1116/Charging_Station_Analysis)***
-Using registered vehicle data, zip codes, and charging station location data, I created a python script that displays all electric vehicle charging stations in NJ relative to the registered EV density per zip code. This project was created in Jupyter Notebook.
 
+## ***[Python Charging Station Analysis](https://github.com/fiorenza1116/Charging_Station_Analysis)***
 <img src="Images/Map_Screenshot.png" width="750" height="750">
 
+***Description***
+
+Using registered vehicle data, zip codes, and charging station location data, I created a python script that displays all electric vehicle charging stations in NJ relative to the registered EV density per zip code. This project was created in Jupyter Notebook.
+
+***Objective***
+
+The goal of this project was to create a visualization in Python to display the electric vehicle population density in New Jersey, and compare it to the electric vehicle charging station locations in the state. 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ***[Project 1: Warby Parker SQL Funnels](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels)***
+## ***[Warby Parker SQL Funnels](https://github.com/fiorenza1116/Warby_Parker_SQL_Funnels)***
 <img src="Images/conversion_funnel.jpeg" width="500">
 
 ***Description***
@@ -24,7 +31,7 @@ Warby Parker is a transformative lifestyle brand with a lofty objective: to offe
 In this project, I will use fictional raw data provided by the data scientists at Warby Parker to analyze Warby Parker marketing funnels by calculating conversion rates and other means of data manipulation.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ***[Project 2: Superstore - Regional Analysis Dashboard](https://public.tableau.com/app/profile/christopher.fiorenza/viz/Superstore-RegionalAnalysis/Dashboard1)***
+## ***[Superstore - Regional Analysis Tableau Dashboard](https://public.tableau.com/app/profile/christopher.fiorenza/viz/Superstore-RegionalAnalysis/Dashboard1)***
 <img src="Images/SuperstoreDash1.png" width="300">
 <img src="Images/SuperstoreDash2.png" height="230" width="300">
 
@@ -42,7 +49,7 @@ This dashboard was created to break down profit analysis within the Superstore f
 - Imagine integrating something like this into your organization
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ***[Project 3: Codeflix: Calculating Churn](https://github.com/fiorenza1116/Codeflix_Calculating_Churn)***
+## ***[Codeflix: Calculating Churn in SQL](https://github.com/fiorenza1116/Codeflix_Calculating_Churn)***
 
 <img src="Images/ChurnRate.png" width="500">
 
@@ -55,7 +62,7 @@ Four months into launching Codeflix, management asks you to look into subscripti
 Use the provided subscription data and write a SQL query to compare churn rates accross segments at Codeflix. Discover ways to optimize your query to be used in scale. Follow each step of the instructions provided to reach the end result.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ***[Project 4: CoolTShirts Marketing Attribution](https://public.tableau.com/app/profile/christopher.fiorenza/viz/CoolTShirtsMarketingAttribution/CoolTShirtsMarketingAttribution?publish=yes)***
+## ***[CoolTShirts Marketing Attribution with SQL and Tableau](https://public.tableau.com/app/profile/christopher.fiorenza/viz/CoolTShirtsMarketingAttribution/CoolTShirtsMarketingAttribution?publish=yes)***
 
 <img src="Images/CoolTShirts%20Dashboard.png" width="400">
 
